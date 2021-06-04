@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surla Lakshmi Poojitha</h1>
-<h3 align="center">An innovative and curious girl in Technical field.</h3>
+<h3 align="center">An innovative and curious girl.</h3>
 
 - 🔭 I’m currently working on **Expense Tracker App**
 
