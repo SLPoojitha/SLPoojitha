@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Expense Tracker App**
 
-- 🌱 I’m currently learning **Machine Learning, Flutter.**
+- 🌱 I’m currently learning **Machine Learning, Flutter, Gaming with Python**
 
 - 📫 How to reach me **surlapoojitha.02@gmail.com**
 
